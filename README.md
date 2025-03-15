@@ -1,12 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Pratheeksha 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🖥️ Tech Enthusiast | 🔍 Problem Solver | ⚡ API Sorcerer</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🖥️ Tech Enthusiast | 🔍 Problem Solver </h3>
 
 <!-- About Me -->
 ### 👩‍💻 About Me  
 - 🌱 I’m currently learning **ELK Stack,React, Spring Boot, Golang, and TailwindCSS**  
 - 🎯 Working on **Spring Boot ,React and API development**
-- 
 ---
 
 <!-- Skills Section -->
