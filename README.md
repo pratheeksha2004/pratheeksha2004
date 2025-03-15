@@ -5,9 +5,8 @@
 <!-- About Me -->
 ### 👩‍💻 About Me  
 - 🌱 I’m currently learning **ELK Stack,React, Spring Boot, Golang, and TailwindCSS**  
-- 🎯 Working on **Spring Boot ,React and API development**   
-- ⚡ Fun Fact: I love **exploring new technologies and solving coding challenges!**  
-
+- 🎯 Working on **Spring Boot ,React and API development**
+- 
 ---
 
 <!-- Skills Section -->
@@ -31,15 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratheeksha&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratheeksha&show_icons=true&theme=radical)  
-
----
 
 <!-- Connect with Me -->
 ### 🌍 Connect with Me  
