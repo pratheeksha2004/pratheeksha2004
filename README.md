@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 ### 👩‍💻 About Me  
-- 🌱 I’m currently learning **ELK Stack,React, Spring Boot, Golang, and TailwindCSS**  
+- 🌱 I’m currently learning **ELK Stack,Redis,React, Spring Boot, Golang, and TailwindCSS**  
 - 🎯 Working on **Spring Boot ,React and API development**
 ---
 
