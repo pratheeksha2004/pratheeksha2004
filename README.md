@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Pratheeksha 👋</h1>
+<h1 align="center">Hi, I'm Pratheeksha 👋</h1>
 <h3 align="center">⚡ Code Composer | 🖥️ Tech Enthusiast | 🔍 Problem Solver </h3>
 
 ---
@@ -10,6 +10,7 @@
 Hello! I'm passionate about building things for the web and diving deep into technology. My current journey involves:
 
 -   🌱 Exploring: **SAP Business Technology Platform (BTP)**, **SAPUI5/Fiori development**, ELK Stack, Redis, Spring Boot, Golang, TailwindCSS.
+
 -   🎯 Actively working on: Building applications with **Spring Boot** & **React**, developing APIs, and applying **SAP BTP/UI5** concepts to real-world enterprise scenarios.
 
 ---
