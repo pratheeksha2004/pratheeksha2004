@@ -9,7 +9,7 @@
 
 Hello! I'm passionate about building things for the web and diving deep into technology. My current journey involves:
 
--   🌱 Exploring: **SAP Business Technology Platform (BTP)**, **SAPUI5/Fiori development**, ELK Stack, Redis, Spring Boot, Golang, TailwindCSS.
+-   🌱 Exploring: **SAP Business Technology Platform (BTP)**, **SAPUI5/Fiori development**, ELK Stack, Redis, Spring Boot, Golang.
 
 -   🎯 Actively working on: Building applications with **Spring Boot** & **React**, developing APIs, and applying **SAP BTP/UI5** concepts to real-world enterprise scenarios.
 
